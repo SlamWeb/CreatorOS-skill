@@ -1,0 +1,6 @@
+interface:
+  display_name: "Edge 配音与字幕"
+  short_description: "用云希等在线音色合成多栏目旁白并生成字幕和词级时间轴"
+
+policy:
+  allow_implicit_invocation: false
